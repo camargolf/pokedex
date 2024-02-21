@@ -1,0 +1,6 @@
+Configurar Git Local;
+git config --global user.name camargolf
+git config --global user.email lf_camargo@hotmail.com
+
+Criar um projeto MVC
+dotnet new mvc -o Pokedex
