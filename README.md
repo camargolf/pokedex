@@ -4,7 +4,7 @@
 
 Pokedex criada com .Net MVC.
 
-## Tecnologias utilizadas:
+## 🚀 Tecnologias utilizadas:
 
 - [x] HTML;
 - [x] CSS;
